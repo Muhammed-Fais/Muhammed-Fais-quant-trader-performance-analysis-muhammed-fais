@@ -1,0 +1,258 @@
+[
+  {
+    "user_id": 101,
+    "profit": 100.5,
+    "profit_rate": 0.05,
+    "commission": 1.2,
+    "lot_size": 2.0,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 101,
+    "profit": -20.0,
+    "profit_rate": -0.01,
+    "commission": 1.1,
+    "lot_size": 1.5,
+    "duration_hr": 0.4
+  },
+  {
+    "user_id": 101,
+    "profit": 50.0,
+    "profit_rate": 0.02,
+    "commission": 0.9,
+    "lot_size": 1.8,
+    "duration_hr": 0.6
+  },
+  {
+    "user_id": 101,
+    "profit": 75.0,
+    "profit_rate": 0.03,
+    "commission": 1.0,
+    "lot_size": 2.0,
+    "duration_hr": 0.3
+  },
+  {
+    "user_id": 101,
+    "profit": -10.0,
+    "profit_rate": -0.005,
+    "commission": 0.8,
+    "lot_size": 1.2,
+    "duration_hr": 0.7
+  },
+  {
+    "user_id": 101,
+    "profit": 120.0,
+    "profit_rate": 0.06,
+    "commission": 1.3,
+    "lot_size": 2.2,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 101,
+    "profit": 30.0,
+    "profit_rate": 0.015,
+    "commission": 1.1,
+    "lot_size": 1.7,
+    "duration_hr": 0.4
+  },
+  {
+    "user_id": 101,
+    "profit": -50.0,
+    "profit_rate": -0.02,
+    "commission": 1.0,
+    "lot_size": 1.6,
+    "duration_hr": 0.6
+  },
+  {
+    "user_id": 101,
+    "profit": 80.0,
+    "profit_rate": 0.04,
+    "commission": 1.2,
+    "lot_size": 2.0,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 101,
+    "profit": 60.0,
+    "profit_rate": 0.025,
+    "commission": 1.1,
+    "lot_size": 1.9,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 101,
+    "profit": -15.0,
+    "profit_rate": -0.007,
+    "commission": 0.9,
+    "lot_size": 1.3,
+    "duration_hr": 0.4
+  },
+  {
+    "user_id": 202,
+    "profit": 200.0,
+    "profit_rate": 0.07,
+    "commission": 1.5,
+    "lot_size": 3.0,
+    "duration_hr": 0.7
+  },
+  {
+    "user_id": 202,
+    "profit": -100.0,
+    "profit_rate": -0.03,
+    "commission": 1.2,
+    "lot_size": 2.5,
+    "duration_hr": 0.6
+  },
+  {
+    "user_id": 202,
+    "profit": 150.0,
+    "profit_rate": 0.05,
+    "commission": 1.4,
+    "lot_size": 2.8,
+    "duration_hr": 0.8
+  },
+  {
+    "user_id": 202,
+    "profit": 300.0,
+    "profit_rate": 0.1,
+    "commission": 1.6,
+    "lot_size": 3.2,
+    "duration_hr": 0.9
+  },
+  {
+    "user_id": 202,
+    "profit": -80.0,
+    "profit_rate": -0.025,
+    "commission": 1.3,
+    "lot_size": 2.7,
+    "duration_hr": 0.6
+  },
+  {
+    "user_id": 202,
+    "profit": 250.0,
+    "profit_rate": 0.08,
+    "commission": 1.5,
+    "lot_size": 3.1,
+    "duration_hr": 0.7
+  },
+  {
+    "user_id": 202,
+    "profit": -50.0,
+    "profit_rate": -0.015,
+    "commission": 1.1,
+    "lot_size": 2.6,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 202,
+    "profit": 180.0,
+    "profit_rate": 0.06,
+    "commission": 1.4,
+    "lot_size": 2.9,
+    "duration_hr": 0.8
+  },
+  {
+    "user_id": 202,
+    "profit": 220.0,
+    "profit_rate": 0.075,
+    "commission": 1.5,
+    "lot_size": 3.0,
+    "duration_hr": 0.7
+  },
+  {
+    "user_id": 202,
+    "profit": -30.0,
+    "profit_rate": -0.01,
+    "commission": 1.0,
+    "lot_size": 2.4,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -30.0,
+    "profit_rate": -0.03,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -15.0,
+    "profit_rate": -0.02,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -35.0,
+    "profit_rate": -0.025,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": 15.0,
+    "profit_rate": 0.01,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -50.0,
+    "profit_rate": -0.04,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -40.0,
+    "profit_rate": -0.035,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -25.0,
+    "profit_rate": -0.02,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -20.0,
+    "profit_rate": -0.015,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -25.0,
+    "profit_rate": -0.02,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -30.0,
+    "profit_rate": -0.025,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  },
+  {
+    "user_id": 303,
+    "profit": -30.0,
+    "profit_rate": -0.03,
+    "commission": 1.2,
+    "lot_size": 0.1,
+    "duration_hr": 0.5
+  }
+]
