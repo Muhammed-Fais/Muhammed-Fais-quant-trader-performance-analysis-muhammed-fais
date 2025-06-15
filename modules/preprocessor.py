@@ -24,7 +24,7 @@ class Preprocessor:
 
         df = pd.DataFrame(raw_data)
 
-        # Check expected columns are present (adjust names as per your data!)
+        # Check expected columns are present
         expected_cols = ['user_id', 'profit', 'profit_rate', 'commission', 'lot_size', 'duration_hr']
         missing_cols = [c for c in expected_cols if c not in df.columns]
         if missing_cols:
